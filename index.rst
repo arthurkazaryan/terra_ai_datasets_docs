@@ -15,11 +15,3 @@ Terra AI datasets
    docs/general
    docs/processing/general
    docs/create/general
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

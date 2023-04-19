@@ -3,18 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Terra AI datasets documentation!
+Terra AI datasets
 ===========================================================
+
+Добро пожаловать на страницу документации фреймворка Terra AI datasets.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Содержание:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   docs/general
+   docs/processing/general
+   docs/create/general
